@@ -53,10 +53,10 @@ Crie testes simples para validar seu agente:
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Liste aqui]
+- [Respostas bem agradáveis]
 
 **O que pode melhorar:**
-- [Liste aqui]
+- [Repertório]
 
 ---
 
